@@ -1,7 +1,7 @@
 {
   "routes": 110,
   "staticHTML": true,
-  "canonicalOrigin": null,
-  "indexing": "disabled until final domain configured",
-  "generatedAt": "2026-11-06T14:22:53.365Z"
+  "canonicalOrigin": "https://kingeseva.onrender.com",
+  "indexing": "enabled",
+  "generatedAt": "2026-11-06T14:25:07.161Z"
 }
