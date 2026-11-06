@@ -20,4 +20,4 @@ export default defineConfig({ server: { proxy: customerProxy }, preview: { proxy
       res.end(readFileSync(resolve('dist/404.html')));
     });
   }
-}], build: { sourcemap: false } });
+}], build: { sourcemap: false, chunkSizeWarningLimit: 1000 } });
