@@ -1,0 +1,11 @@
+node_modules/
+private/
+.media-tools/
+dist/
+*.tsbuildinfo
+*.log
+# Optional archived media: active design uses the original HTML/CSS hero.
+public/assets/generated/
+public/assets/story-phone/
+.env*
+!\.env.example

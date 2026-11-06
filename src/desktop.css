@@ -1,0 +1,9 @@
+.mac-reference-art{height:auto;min-height:360px;width:100%;background:radial-gradient(ellipse at 40% 50%,#d8bb7d08,transparent 68%);isolation:isolate}
+.mac-reference-scene{display:block;width:112%;max-width:none;height:auto;overflow:visible;filter:drop-shadow(0 16px 20px #0003)}
+.mac-website-window{width:1440px;height:900px;transform-origin:0 0;background:#081725;overflow:hidden;backface-visibility:hidden}
+.mac-browser-bar{height:42px;display:flex;align-items:center;gap:130px;padding:0 24px;background:linear-gradient(#e8ebee,#cbd1d8);color:#536171;font-family:Arial,sans-serif}
+.mac-window-dots{color:#8b929a;font-size:17px;letter-spacing:5px}
+.mac-browser-address{width:850px;border:1px solid #b4bdc6;background:#f5f6f8;border-radius:5px;text-align:center;font-size:17px;line-height:27px}
+.mac-website-window>img{width:1440px;height:858px;max-width:none;object-fit:fill}
+@media(max-width:900px){.mac-reference-art{min-height:270px}.mac-reference-scene{width:105%}}
+@media(max-width:700px){.mac-reference-art{min-height:0;max-width:480px;padding:8px 0}.mac-reference-scene{width:100%}}

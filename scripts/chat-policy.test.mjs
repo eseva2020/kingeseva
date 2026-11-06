@@ -1,0 +1,8 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {detectChatLanguage,requestedChatLanguage,containsSensitiveChatData,formatChatText} from '../src/chat-policy.mjs';
+test('English, Unicode Telugu and Roman Telugu detection',()=>{assert.equal(detectChatLanguage('How do I apply?'),'en');assert.equal(detectChatLanguage('నాకు income certificate కావాలి'),'te');assert.equal(detectChatLanguage('PAN card ela apply cheyali?'),'te');});
+test('Explicit preference respected and requested switch wins',()=>{assert.equal(detectChatLanguage('documents kavali','en'),'en');assert.equal(detectChatLanguage('English please','te'),'en');assert.equal(detectChatLanguage('Telugu please','en'),'te');});
+test('General chat rejects credentials and identity numbers, not service questions',()=>{for(const message of ['OTP: 123456','password=secret','123456789012','ABCDE1234F'])assert.ok(containsSensitiveChatData(message));assert.equal(containsSensitiveChatData('PAN card documents kavali'),false);});
+test('Chat text removes raw headings and emphasis without HTML execution',()=>{assert.equal(formatChatText('### Documents\n* **Aadhaar**\n* Photo'),'Documents\n• Aadhaar\n• Photo');assert.equal(formatChatText('<script>bad()</script>'),'<script>bad()</script>');});
+test('Conversational switches and brief follow-up context',()=>{assert.equal(requestedChatLanguage('English lo cheppandi'),'en');assert.equal(requestedChatLanguage('తెలుగులో చెప్పండి'),'te');assert.equal(detectChatLanguage('documents?',null,'te'),'te');assert.equal(detectChatLanguage('How long does it take?',null,'te'),'en');assert.equal(detectChatLanguage('ఎన్ని రోజులు పడుతుంది?',null,'en'),'te');assert.equal(detectChatLanguage('labour card ela apply cheyali?',null,'en'),'te');});

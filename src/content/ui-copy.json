@@ -1,0 +1,822 @@
+{
+  "ui_001": {
+    "en": "Home",
+    "te": "హోమ్"
+  },
+  "ui_002": {
+    "en": "Services",
+    "te": "సేవలు"
+  },
+  "ui_003": {
+    "en": "Govt Updates",
+    "te": "ప్రభుత్వ సమాచారం"
+  },
+  "ui_004": {
+    "en": "Jobs",
+    "te": "ఉద్యోగాలు"
+  },
+  "ui_005": {
+    "en": "About",
+    "te": "మా గురించి"
+  },
+  "ui_006": {
+    "en": "Contact",
+    "te": "సంప్రదించండి"
+  },
+  "ui_007": {
+    "en": "KING home",
+    "te": "కింగ్ హోమ్"
+  },
+  "ui_008": {
+    "en": "Main navigation",
+    "te": "ప్రధాన నావిగేషన్"
+  },
+  "ui_009": {
+    "en": "Apply Online",
+    "te": "దరఖాస్తు చేయండి"
+  },
+  "ui_010": {
+    "en": "Toggle menu",
+    "te": "మెనూ తెరవండి లేదా మూయండి"
+  },
+  "ui_011": {
+    "en": "Royal Digital Awakening",
+    "te": "రాజసమైన డిజిటల్ ఆవిష్కరణ"
+  },
+  "ui_012": {
+    "en": "Skip intro",
+    "te": "పరిచయం దాటవేయండి"
+  },
+  "ui_013": {
+    "en": "YOUR DIGITAL SERVICE KINGDOM",
+    "te": "మీ డిజిటల్ సేవా సామ్రాజ్యం"
+  },
+  "ui_014": {
+    "en": "Digital Services.",
+    "te": "డిజిటల్ సేవలు."
+  },
+  "ui_015": {
+    "en": "Made",
+    "te": "ఇక"
+  },
+  "ui_016": {
+    "en": "Simple.",
+    "te": "సులభం."
+  },
+  "ui_017": {
+    "en": "Big possibilities. Less complexity.",
+    "te": "ఎన్నో అవకాశాలు. సులభమైన ప్రక్రియ."
+  },
+  "ui_018": {
+    "en": "One trusted place for your everyday digital needs.",
+    "te": "మీ రోజువారీ డిజిటల్ అవసరాలకు ఒకే విశ్వసనీయ స్థలం."
+  },
+  "ui_019": {
+    "en": "WhatsApp Us",
+    "te": "వాట్సాప్‌లో సంప్రదించండి"
+  },
+  "ui_020": {
+    "en": "Clear guidance",
+    "te": "స్పష్టమైన మార్గదర్శనం"
+  },
+  "ui_021": {
+    "en": "Ghanpur (Station)",
+    "te": "ఘన్‌పూర్ (స్టేషన్)"
+  },
+  "ui_022": {
+    "en": "CONNECTED BY KING",
+    "te": "కింగ్‌తో అనుసంధానం"
+  },
+  "ui_023": {
+    "en": "Assistance, simplified",
+    "te": "సులభమైన సహాయం"
+  },
+  "ui_024": {
+    "en": "ONE BRAND. MANY POSSIBILITIES.",
+    "te": "ఒకే బ్రాండ్. ఎన్నో అవకాశాలు."
+  },
+  "ui_025": {
+    "en": "SCROLL TO EXPLORE",
+    "te": "సేవలను చూడండి"
+  },
+  "ui_026": {
+    "en": "GOVERNMENT · BUSINESS · TAX · JOBS · EDUCATION",
+    "te": "ప్రభుత్వం · వ్యాపారం · పన్నులు · ఉద్యోగాలు · విద్య"
+  },
+  "ui_027": {
+    "en": "Skip motion",
+    "te": "కదలిక దాటవేయండి"
+  },
+  "ui_028": {
+    "en": "Many services.",
+    "te": "ఎన్నో సేవలు."
+  },
+  "ui_029": {
+    "en": "One connection.",
+    "te": "ఒకే అనుసంధానం."
+  },
+  "ui_030": {
+    "en": "A WORLD OF SERVICES",
+    "te": "అన్ని సేవలు ఒకే చోట"
+  },
+  "ui_031": {
+    "en": "Find your",
+    "te": "మీకు కావాల్సిన"
+  },
+  "ui_032": {
+    "en": "service.",
+    "te": "సేవ."
+  },
+  "ui_033": {
+    "en": "Everything You Need.",
+    "te": "మీకు కావాల్సినవన్నీ."
+  },
+  "ui_034": {
+    "en": "One Trusted Place.",
+    "te": "ఒకే విశ్వసనీయ స్థలం."
+  },
+  "ui_035": {
+    "en": "From everyday essentials to your next big step. We help you navigate the digital world with confidence.",
+    "te": "రోజువారీ అవసరాల నుంచి మీ తదుపరి ముందడుగు వరకు. డిజిటల్ ప్రపంచంలో నమ్మకంగా ముందుకు సాగేందుకు సహాయం."
+  },
+  "ui_036": {
+    "en": "Search PAN, passport, scholarships…",
+    "te": "పాన్, పాస్‌పోర్ట్, ఉపకార వేతనాలు వెతకండి…"
+  },
+  "ui_037": {
+    "en": "Search services",
+    "te": "సేవలను వెతకండి"
+  },
+  "ui_038": {
+    "en": "Clear search",
+    "te": "వెతుకులాట తొలగించండి"
+  },
+  "ui_039": {
+    "en": "All services",
+    "te": "అన్ని సేవలు"
+  },
+  "ui_040": {
+    "en": "Explore Services",
+    "te": "సేవలను చూడండి"
+  },
+  "ui_041": {
+    "en": "WhatsApp Assistance",
+    "te": "వాట్సాప్ సహాయం"
+  },
+  "ui_042": {
+    "en": "No matching services",
+    "te": "సరిపోయే సేవలు లేవు"
+  },
+  "ui_043": {
+    "en": "Try another word or ask us for guidance.",
+    "te": "మరో పదంతో వెతకండి లేదా సహాయం కోసం సంప్రదించండి."
+  },
+  "ui_044": {
+    "en": "Ask for assistance",
+    "te": "సహాయం కోరండి"
+  },
+  "ui_045": {
+    "en": "Discover all services",
+    "te": "అన్ని సేవలను చూడండి"
+  },
+  "ui_046": {
+    "en": "Choose Your Service",
+    "te": "మీ సేవను ఎంచుకోండి"
+  },
+  "ui_047": {
+    "en": "Find what you need. We’ll help you understand the next step.",
+    "te": "మీకు కావాల్సిన సేవను ఎంచుకోండి. తదుపరి దశను అర్థం చేసుకోవడంలో సహాయం చేస్తాం."
+  },
+  "ui_048": {
+    "en": "Share Required Documents",
+    "te": "అవసరమైన పత్రాలు అందించండి"
+  },
+  "ui_049": {
+    "en": "Get the right checklist first. Share documents only through the agreed channel.",
+    "te": "ముందుగా సరైన పత్రాల జాబితా పొందండి. అంగీకరించిన మార్గంలో మాత్రమే పత్రాలు అందించండి."
+  },
+  "ui_050": {
+    "en": "Get Application Support",
+    "te": "దరఖాస్తు సహాయం పొందండి"
+  },
+  "ui_051": {
+    "en": "Get assistance with your application and guidance on checking its status.",
+    "te": "మీ దరఖాస్తులో సహాయం, స్థితిని తెలుసుకునేందుకు మార్గదర్శనం పొందండి."
+  },
+  "ui_052": {
+    "en": "LESS EFFORT. MORE CLARITY.",
+    "te": "తక్కువ శ్రమ. మరింత స్పష్టత."
+  },
+  "ui_053": {
+    "en": "Simple Process.",
+    "te": "సులభమైన ప్రక్రియ."
+  },
+  "ui_054": {
+    "en": "Real Assistance.",
+    "te": "నిజమైన సహాయం."
+  },
+  "ui_055": {
+    "en": "STAY A STEP AHEAD",
+    "te": "ఎప్పటికప్పుడు సమాచారం"
+  },
+  "ui_056": {
+    "en": "Jobs &",
+    "te": "ఉద్యోగాలు &"
+  },
+  "ui_057": {
+    "en": "Latest Opportunities",
+    "te": "తాజా అవకాశాలు"
+  },
+  "ui_058": {
+    "en": "Opportunities.",
+    "te": "అవకాశాలు."
+  },
+  "ui_059": {
+    "en": "& Updates.",
+    "te": "& సమాచారం."
+  },
+  "ui_060": {
+    "en": "View all updates",
+    "te": "అన్ని సమాచారం చూడండి"
+  },
+  "ui_061": {
+    "en": "Official sources. Clear information. Check each authority’s latest notice before applying.",
+    "te": "అధికారిక వనరులు. స్పష్టమైన సమాచారం. దరఖాస్తు ముందు సంబంధిత సంస్థ తాజా ప్రకటనను చూడండి."
+  },
+  "ui_062": {
+    "en": "Update",
+    "te": "సమాచారం"
+  },
+  "ui_063": {
+    "en": "Eligibility",
+    "te": "అర్హత"
+  },
+  "ui_064": {
+    "en": "Last date",
+    "te": "చివరి తేదీ"
+  },
+  "ui_065": {
+    "en": "Official source",
+    "te": "అధికారిక మూలం"
+  },
+  "ui_066": {
+    "en": "Get assistance",
+    "te": "సహాయం పొందండి"
+  },
+  "ui_067": {
+    "en": "The right information. When it’s verified.",
+    "te": "ధృవీకరించిన సరైన సమాచారం."
+  },
+  "ui_068": {
+    "en": "No verified updates are published here yet. Explore official sources or ask us about the service you need.",
+    "te": "ఇంకా ధృవీకరించిన సమాచారం ప్రచురించలేదు. అధికారిక వనరులను చూడండి లేదా మీకు కావాల్సిన సేవ గురించి అడగండి."
+  },
+  "ui_069": {
+    "en": "Ask KING",
+    "te": "కింగ్‌ను అడగండి"
+  },
+  "ui_070": {
+    "en": "Explore official portals",
+    "te": "అధికారిక పోర్టల్‌లు"
+  },
+  "ui_071": {
+    "en": "Telangana PSC",
+    "te": "తెలంగాణ పబ్లిక్ సర్వీస్ కమిషన్"
+  },
+  "ui_072": {
+    "en": "Scholarships",
+    "te": "ఉపకార వేతనాలు"
+  },
+  "ui_073": {
+    "en": "Higher Education",
+    "te": "ఉన్నత విద్య"
+  },
+  "ui_074": {
+    "en": "TECHNOLOGY, WITH A HUMAN SIDE",
+    "te": "మానవీయ సహాయంతో సాంకేతికత"
+  },
+  "ui_075": {
+    "en": "Human Support.",
+    "te": "మానవీయ సహాయం."
+  },
+  "ui_076": {
+    "en": "Digital Services",
+    "te": "డిజిటల్ సేవలు"
+  },
+  "ui_077": {
+    "en": "with",
+    "te": "మీ కోసం"
+  },
+  "ui_078": {
+    "en": "The digital world opens doors. A little guidance makes them easier to walk through. KING e-Seva Services brings essential online and application assistance together in Ghanpur (Station).",
+    "te": "డిజిటల్ ప్రపంచం ఎన్నో అవకాశాలు కల్పిస్తుంది. సరైన మార్గదర్శనంతో వాటిని సులభంగా అందుకోవచ్చు. ఘన్‌పూర్ (స్టేషన్)లో కింగ్ ఈ-సేవ సర్వీసెస్ అవసరమైన ఆన్‌లైన్, దరఖాస్తు సహాయాన్ని ఒకే చోట అందిస్తుంది."
+  },
+  "ui_079": {
+    "en": "Easy, personal assistance",
+    "te": "సులభమైన వ్యక్తిగత సహాయం"
+  },
+  "ui_080": {
+    "en": "Clear document guidance",
+    "te": "స్పష్టమైన పత్రాల మార్గదర్శనం"
+  },
+  "ui_081": {
+    "en": "Multiple services, one place",
+    "te": "పలు సేవలు, ఒకే స్థలం"
+  },
+  "ui_082": {
+    "en": "Simple communication",
+    "te": "సులభమైన సంప్రదింపులు"
+  },
+  "ui_083": {
+    "en": "Get to know KING",
+    "te": "కింగ్ గురించి తెలుసుకోండి"
+  },
+  "ui_084": {
+    "en": "YOUR NEXT STEP STARTS HERE",
+    "te": "మీ తదుపరి అడుగు ఇక్కడే"
+  },
+  "ui_085": {
+    "en": "One message.",
+    "te": "ఒక సందేశం."
+  },
+  "ui_086": {
+    "en": "A simpler way forward.",
+    "te": "ముందుకు సులభమైన మార్గం."
+  },
+  "ui_087": {
+    "en": "Tell us what you need. Let’s take it from there.",
+    "te": "మీకు ఏమి కావాలో చెప్పండి. అక్కడి నుంచి కలిసి ముందుకు సాగుదాం."
+  },
+  "ui_088": {
+    "en": "Let’s talk on WhatsApp",
+    "te": "వాట్సాప్‌లో మాట్లాడుదాం"
+  },
+  "ui_089": {
+    "en": "Explore services",
+    "te": "సేవలను చూడండి"
+  },
+  "ui_090": {
+    "en": "Popular Services",
+    "te": "ప్రముఖ సేవలు"
+  },
+  "ui_091": {
+    "en": "Explore",
+    "te": "చూడండి"
+  },
+  "ui_092": {
+    "en": "Government Updates",
+    "te": "ప్రభుత్వ సమాచారం"
+  },
+  "ui_093": {
+    "en": "Jobs & Applications",
+    "te": "ఉద్యోగాలు & దరఖాస్తులు"
+  },
+  "ui_094": {
+    "en": "Education",
+    "te": "విద్య"
+  },
+  "ui_095": {
+    "en": "About KING",
+    "te": "కింగ్ గురించి"
+  },
+  "ui_096": {
+    "en": "Here to help",
+    "te": "మీ సహాయం కోసం"
+  },
+  "ui_097": {
+    "en": "WhatsApp assistance",
+    "te": "వాట్సాప్ సహాయం"
+  },
+  "ui_098": {
+    "en": "KING e-Seva Services provides independent digital and application assistance. This is not a government website. Decisions and approvals rest with the relevant authorities.",
+    "te": "కింగ్ ఈ-సేవ సర్వీసెస్ స్వతంత్ర డిజిటల్, దరఖాస్తు సహాయం అందిస్తుంది. ఇది ప్రభుత్వ వెబ్‌సైట్ కాదు. నిర్ణయాలు, ఆమోదాలు సంబంధిత సంస్థల పరిధిలో ఉంటాయి."
+  },
+  "ui_099": {
+    "en": "Privacy Policy",
+    "te": "గోప్యతా విధానం"
+  },
+  "ui_100": {
+    "en": "Terms & Conditions",
+    "te": "నిబంధనలు"
+  },
+  "ui_101": {
+    "en": "Disclaimer",
+    "te": "నిరాకరణ ప్రకటన"
+  },
+  "ui_102": {
+    "en": "MADE FOR EVERYDAY POSSIBILITIES",
+    "te": "రోజువారీ అవకాశాల కోసం"
+  },
+  "ui_103": {
+    "en": "WhatsApp",
+    "te": "వాట్సాప్"
+  },
+  "ui_104": {
+    "en": "Call",
+    "te": "కాల్"
+  },
+  "ui_105": {
+    "en": "Apply",
+    "te": "దరఖాస్తు"
+  },
+  "ui_106": {
+    "en": "Need a hand?",
+    "te": "సహాయం కావాలా?"
+  },
+  "ui_107": {
+    "en": "Install app",
+    "te": "యాప్ ఇన్‌స్టాల్ చేయండి"
+  },
+  "ui_108": {
+    "en": "Use your browser menu → Install app or Add to Home Screen. This option appears on supported browsers when the site is served securely.",
+    "te": "మీ బ్రౌజర్ మెనూలో యాప్ ఇన్‌స్టాల్ లేదా హోమ్ స్క్రీన్‌కు జోడించు ఎంచుకోండి. సురక్షిత కనెక్షన్‌లో మద్దతు ఉన్న బ్రౌజర్‌లలో ఈ ఎంపిక కనిపిస్తుంది."
+  },
+  "ui_109": {
+    "en": "GUIDANCE AT EVERY STEP",
+    "te": "ప్రతి దశలో మార్గదర్శనం"
+  },
+  "ui_110": {
+    "en": "Assistance.",
+    "te": "సహాయం."
+  },
+  "ui_111": {
+    "en": "Get Assistance",
+    "te": "సహాయం పొందండి"
+  },
+  "ui_112": {
+    "en": "Ask on WhatsApp",
+    "te": "వాట్సాప్‌లో అడగండి"
+  },
+  "ui_113": {
+    "en": "Who may need this service",
+    "te": "ఈ సేవ ఎవరికి ఉపయోగపడుతుంది"
+  },
+  "ui_114": {
+    "en": "Required documents",
+    "te": "అవసరమైన పత్రాలు"
+  },
+  "ui_115": {
+    "en": "The exact checklist depends on your application type and the current official requirements. Ask us to confirm the appropriate checklist before sharing documents.",
+    "te": "ఖచ్చితమైన పత్రాల జాబితా మీ దరఖాస్తు రకం, ప్రస్తుత అధికారిక నిబంధనలపై ఆధారపడి ఉంటుంది. పత్రాలు అందించే ముందు తగిన జాబితాను నిర్ధారించుకోండి."
+  },
+  "ui_116": {
+    "en": "Tell us whether this is a new application, correction, renewal or another request.",
+    "te": "ఇది కొత్త దరఖాస్తు, సవరణ, పునరుద్ధరణ లేదా ఇతర అభ్యర్థనో తెలియజేయండి."
+  },
+  "ui_117": {
+    "en": "Use the official reference below to check the current document list for your case.",
+    "te": "మీ అవసరానికి తగిన ప్రస్తుత పత్రాల జాబితాను కింద ఉన్న అధికారిక మూలంలో చూడండి."
+  },
+  "ui_118": {
+    "en": "Do not send passwords, OTPs or full identity numbers in an initial enquiry.",
+    "te": "మొదటి విచారణలో పాస్‌వర్డ్‌లు, ఓటీపీలు లేదా పూర్తి గుర్తింపు సంఖ్యలను పంపవద్దు."
+  },
+  "ui_119": {
+    "en": "Process overview",
+    "te": "ప్రక్రియ అవలోకనం"
+  },
+  "ui_120": {
+    "en": "Discuss your request and confirm the relevant official process.",
+    "te": "మీ అవసరాన్ని చర్చించి సంబంధిత అధికారిక ప్రక్రియను నిర్ధారించండి."
+  },
+  "ui_121": {
+    "en": "Review the required documents and any disclosed assistance charges.",
+    "te": "అవసరమైన పత్రాలు, తెలిపిన సహాయ రుసుములను పరిశీలించండి."
+  },
+  "ui_122": {
+    "en": "Review the application details before submission through the appropriate channel.",
+    "te": "తగిన మార్గంలో సమర్పించే ముందు దరఖాస్తు వివరాలను పరిశీలించండి."
+  },
+  "ui_123": {
+    "en": "Keep the official acknowledgement and follow the authority’s status updates.",
+    "te": "అధికారిక రసీదును భద్రపరచి సంబంధిత సంస్థ స్థితి సమాచారాన్ని అనుసరించండి."
+  },
+  "ui_124": {
+    "en": "Important notes",
+    "te": "ముఖ్యమైన విషయాలు"
+  },
+  "ui_125": {
+    "en": "We provide application assistance. Requirements, fees, processing and approval are controlled by the relevant authority. No outcome or processing time is guaranteed. Official online services may also be accessed directly.",
+    "te": "మేము దరఖాస్తు సహాయం అందిస్తాం. నిబంధనలు, రుసుములు, ప్రక్రియ, ఆమోదం సంబంధిత సంస్థ నిర్ణయిస్తుంది. ఫలితం లేదా సమయంపై హామీ లేదు. అధికారిక ఆన్‌లైన్ సేవలను నేరుగా కూడా పొందవచ్చు."
+  },
+  "ui_126": {
+    "en": "This page does not claim that KING is an authorised Aadhaar enrolment or biometric update centre. Use UIDAI’s authorised channels for those services.",
+    "te": "కింగ్ అధీకృత ఆధార్ నమోదు లేదా బయోమెట్రిక్ నవీకరణ కేంద్రమని ఈ పేజీ పేర్కొనదు. ఆ సేవలకు యూఐడీఏఐ అధీకృత మార్గాలను వినియోగించండి."
+  },
+  "ui_127": {
+    "en": "Your questions, answered.",
+    "te": "మీ ప్రశ్నలకు సమాధానాలు."
+  },
+  "ui_128": {
+    "en": "Can I apply directly?",
+    "te": "నేరుగా దరఖాస్తు చేయవచ్చా?"
+  },
+  "ui_129": {
+    "en": "Yes. Use the relevant official portal if you prefer to complete the process yourself. Assistance is optional.",
+    "te": "అవును. మీరే ప్రక్రియ పూర్తిచేయాలనుకుంటే సంబంధిత అధికారిక పోర్టల్ ఉపయోగించండి. సహాయం ఐచ్ఛికం."
+  },
+  "ui_130": {
+    "en": "What will it cost?",
+    "te": "ఎంత ఖర్చవుతుంది?"
+  },
+  "ui_131": {
+    "en": "Confirm official charges on the authority’s portal and ask KING for any separate assistance charges before proceeding.",
+    "te": "అధికారిక రుసుములను సంబంధిత పోర్టల్‌లో నిర్ధారించి, ముందుకు వెళ్లే ముందు కింగ్ సహాయ రుసుములను అడగండి."
+  },
+  "ui_132": {
+    "en": "How long will it take?",
+    "te": "ఎంత సమయం పడుతుంది?"
+  },
+  "ui_133": {
+    "en": "Timelines depend on the authority and your application. We do not promise approval dates.",
+    "te": "సమయం సంబంధిత సంస్థ, మీ దరఖాస్తుపై ఆధారపడి ఉంటుంది. ఆమోద తేదీలకు హామీ ఇవ్వము."
+  },
+  "ui_134": {
+    "en": "Start with the right information.",
+    "te": "సరైన సమాచారంతో ప్రారంభించండి."
+  },
+  "ui_135": {
+    "en": "Check the official source for current instructions.",
+    "te": "ప్రస్తుత సూచనల కోసం అధికారిక మూలాన్ని చూడండి."
+  },
+  "ui_136": {
+    "en": "Official reference",
+    "te": "అధికారిక మూలం"
+  },
+  "ui_137": {
+    "en": "Ask KING for help",
+    "te": "కింగ్ సహాయం కోరండి"
+  },
+  "ui_138": {
+    "en": "LET’S MAKE IT SIMPLE",
+    "te": "సులభంగా ప్రారంభిద్దాం"
+  },
+  "ui_139": {
+    "en": "Your service.",
+    "te": "మీ సేవ."
+  },
+  "ui_140": {
+    "en": "Your next step.",
+    "te": "మీ తదుపరి అడుగు."
+  },
+  "ui_141": {
+    "en": "Start with a simple enquiry. We’ll help you understand the documents and process before you apply.",
+    "te": "సులభమైన విచారణతో ప్రారంభించండి. దరఖాస్తు ముందు పత్రాలు, ప్రక్రియను అర్థం చేసుకోవడంలో సహాయం చేస్తాం."
+  },
+  "ui_142": {
+    "en": "This is an assistance enquiry, not an official application. No documents or personal details are collected here.",
+    "te": "ఇది సహాయం కోసం విచారణ మాత్రమే, అధికారిక దరఖాస్తు కాదు. ఇక్కడ పత్రాలు లేదా వ్యక్తిగత వివరాలను సేకరించము."
+  },
+  "ui_143": {
+    "en": "What can we help with?",
+    "te": "ఏ విషయంలో సహాయం కావాలి?"
+  },
+  "ui_144": {
+    "en": "Choose your service",
+    "te": "మీ సేవను ఎంచుకోండి"
+  },
+  "ui_145": {
+    "en": "Select a service",
+    "te": "సేవను ఎంచుకోండి"
+  },
+  "ui_146": {
+    "en": "No complicated forms. No sensitive information.",
+    "te": "క్లిష్టమైన ఫారమ్‌లు లేవు. సున్నితమైన సమాచారం అవసరం లేదు."
+  },
+  "ui_147": {
+    "en": "Prepare enquiry",
+    "te": "విచారణ సిద్ధం చేయండి"
+  },
+  "ui_148": {
+    "en": "Your message is ready",
+    "te": "మీ సందేశం సిద్ధంగా ఉంది"
+  },
+  "ui_149": {
+    "en": "Continue to WhatsApp",
+    "te": "వాట్సాప్‌కు కొనసాగండి"
+  },
+  "ui_150": {
+    "en": "Review and send the message in WhatsApp. Nothing has been sent yet.",
+    "te": "వాట్సాప్‌లో సందేశాన్ని పరిశీలించి పంపండి. ఇంకా ఏమీ పంపలేదు."
+  },
+  "ui_151": {
+    "en": "The business WhatsApp number has not been added yet. You can copy your enquiry in the next step. Nothing has been sent.",
+    "te": "వ్యాపార వాట్సాప్ నంబరు ఇంకా జోడించలేదు. తదుపరి దశలో విచారణను కాపీ చేయవచ్చు. ఏమీ పంపలేదు."
+  },
+  "ui_152": {
+    "en": "A REAL PERSON. A CLEAR NEXT STEP.",
+    "te": "వ్యక్తిగత సహాయం. స్పష్టమైన తదుపరి అడుగు."
+  },
+  "ui_153": {
+    "en": "Let’s make digital",
+    "te": "డిజిటల్ సేవలను"
+  },
+  "ui_154": {
+    "en": "feel simple.",
+    "te": "సులభం చేద్దాం."
+  },
+  "ui_155": {
+    "en": "Tell us what you’re looking for. We’re here to help you find the way forward.",
+    "te": "మీకు ఏమి కావాలో చెప్పండి. ముందుకు వెళ్లేందుకు సహాయం చేస్తాం."
+  },
+  "ui_156": {
+    "en": "Message KING",
+    "te": "కింగ్‌కు సందేశం పంపండి"
+  },
+  "ui_157": {
+    "en": "Ask about a service and the documents you may need.",
+    "te": "సేవ, అవసరమయ్యే పత్రాల గురించి అడగండి."
+  },
+  "ui_158": {
+    "en": "Local assistance",
+    "te": "స్థానిక సహాయం"
+  },
+  "ui_159": {
+    "en": "Contact us to confirm the exact meeting point and visiting time.",
+    "te": "ఖచ్చితమైన స్థలం, సందర్శన సమయాన్ని నిర్ధారించేందుకు సంప్రదించండి."
+  },
+  "ui_160": {
+    "en": "Call or email",
+    "te": "కాల్ లేదా ఈమెయిల్"
+  },
+  "ui_161": {
+    "en": "The business contact number will be listed here once confirmed.",
+    "te": "వ్యాపార సంప్రదింపు నంబరు నిర్ధారించిన తరువాత ఇక్కడ కనిపిస్తుంది."
+  },
+  "ui_162": {
+    "en": "Information on this website",
+    "te": "ఈ వెబ్‌సైట్‌లో సమాచారం"
+  },
+  "ui_163": {
+    "en": "The enquiry tool uses your selected service to prepare a message. It does not ask for identity documents, passwords, OTPs or payment information. No enquiry is submitted to a KING server by this frontend.",
+    "te": "విచారణ సాధనం మీరు ఎంచుకున్న సేవతో సందేశాన్ని సిద్ధం చేస్తుంది. గుర్తింపు పత్రాలు, పాస్‌వర్డ్‌లు, ఓటీపీలు లేదా చెల్లింపు వివరాలను అడగదు. ఈ వెబ్‌సైట్ నుంచి కింగ్ సర్వర్‌కు విచారణ సమర్పించబడదు."
+  },
+  "ui_164": {
+    "en": "On your device",
+    "te": "మీ పరికరంలో"
+  },
+  "ui_165": {
+    "en": "Your language preference is stored locally. A session preference prevents repeated introductory animation. The app may cache public pages and assets for offline use. It does not cache submitted documents or personal forms. No advertising or analytics scripts are included.",
+    "te": "మీ భాషా ఎంపిక పరికరంలో నిల్వ అవుతుంది. పరిచయ కదలిక పునరావృతం కాకుండా సెషన్ ఎంపిక ఉంటుంది. ఆఫ్‌లైన్ వినియోగానికి పబ్లిక్ పేజీలు, ఫైళ్లు నిల్వ కావచ్చు. పత్రాలు, వ్యక్తిగత ఫారమ్‌లను నిల్వ చేయదు. ప్రకటన లేదా విశ్లేషణ స్క్రిప్ట్‌లు లేవు."
+  },
+  "ui_166": {
+    "en": "WhatsApp and external websites",
+    "te": "వాట్సాప్, బాహ్య వెబ్‌సైట్‌లు"
+  },
+  "ui_167": {
+    "en": "Opening WhatsApp or an official portal takes you to a separate service governed by its own privacy terms. The prepared enquiry contains only a service name. Review any message before sending it.",
+    "te": "వాట్సాప్ లేదా అధికారిక పోర్టల్ తెరిస్తే దాని స్వంత గోప్యతా నిబంధనలు వర్తిస్తాయి. సిద్ధం చేసిన విచారణలో సేవ పేరు మాత్రమే ఉంటుంది. పంపే ముందు సందేశాన్ని పరిశీలించండి."
+  },
+  "ui_168": {
+    "en": "Questions and document handling",
+    "te": "ప్రశ్నలు, పత్రాల నిర్వహణ"
+  },
+  "ui_169": {
+    "en": "Contact KING before sharing documents to confirm the required channel, purpose and retention arrangements. The operator must provide any additional policy covering documents received outside this website.",
+    "te": "పత్రాలు అందించే ముందు మార్గం, ప్రయోజనం, నిల్వ విధానం గురించి కింగ్‌ను సంప్రదించండి. ఈ వెబ్‌సైట్ వెలుపల అందుకున్న పత్రాలకు వర్తించే అదనపు విధానాన్ని నిర్వాహకులు తెలియజేయాలి."
+  },
+  "ui_170": {
+    "en": "Nature of the service",
+    "te": "సేవ స్వభావం"
+  },
+  "ui_171": {
+    "en": "KING provides digital and application assistance. Using this website does not create an official application or guarantee that a service is available for your circumstances.",
+    "te": "కింగ్ డిజిటల్, దరఖాస్తు సహాయం అందిస్తుంది. ఈ వెబ్‌సైట్ వినియోగం అధికారిక దరఖాస్తు కాదు; మీ పరిస్థితులకు సేవ అందుబాటులో ఉంటుందని హామీ లేదు."
+  },
+  "ui_172": {
+    "en": "Before proceeding",
+    "te": "కొనసాగించే ముందు"
+  },
+  "ui_173": {
+    "en": "Confirm the service scope, any assistance charges, official fees and document requirements with the relevant provider. Check and approve your application details before submission.",
+    "te": "సేవ పరిధి, సహాయ రుసుములు, అధికారిక రుసుములు, పత్రాల అవసరాలను సంబంధిత ప్రదాతతో నిర్ధారించండి. సమర్పించే ముందు దరఖాస్తు వివరాలను పరిశీలించి ఆమోదించండి."
+  },
+  "ui_174": {
+    "en": "Authority decisions",
+    "te": "అధికారిక నిర్ణయాలు"
+  },
+  "ui_175": {
+    "en": "Eligibility, processing times, approvals and official charges are determined by the relevant authority. This website makes no promise of approval, employment, admission or financial benefit.",
+    "te": "అర్హత, ప్రక్రియ సమయం, ఆమోదాలు, అధికారిక రుసుములను సంబంధిత సంస్థ నిర్ణయిస్తుంది. ఆమోదం, ఉద్యోగం, ప్రవేశం లేదా ఆర్థిక ప్రయోజనానికి ఈ వెబ్‌సైట్ హామీ ఇవ్వదు."
+  },
+  "ui_176": {
+    "en": "Independent assistance",
+    "te": "స్వతంత్ర సహాయం"
+  },
+  "ui_177": {
+    "en": "KING e-Seva Services is an independent digital assistance brand. This website is not a government portal and does not claim government affiliation, authorisation or endorsement.",
+    "te": "కింగ్ ఈ-సేవ సర్వీసెస్ స్వతంత్ర డిజిటల్ సహాయ బ్రాండ్. ఇది ప్రభుత్వ పోర్టల్ కాదు; ప్రభుత్వ అనుబంధం, అధికారం లేదా ఆమోదం ఉన్నట్లు పేర్కొనదు."
+  },
+  "ui_178": {
+    "en": "Official information",
+    "te": "అధికారిక సమాచారం"
+  },
+  "ui_179": {
+    "en": "External links are provided to help you find official sources. Requirements can change. Always verify current instructions directly with the responsible authority.",
+    "te": "అధికారిక వనరులను కనుగొనేందుకు బాహ్య లింకులు అందించాం. నిబంధనలు మారవచ్చు. ప్రస్తుత సూచనలను సంబంధిత సంస్థతో నేరుగా నిర్ధారించండి."
+  },
+  "ui_180": {
+    "en": "No guarantees",
+    "te": "హామీలు లేవు"
+  },
+  "ui_181": {
+    "en": "Assistance does not guarantee approval or any particular result. No vacancies, deadlines, fees or eligibility claims should be inferred from a service listing.",
+    "te": "సహాయం ఆమోదానికి లేదా నిర్దిష్ట ఫలితానికి హామీ కాదు. సేవల జాబితా నుంచి ఖాళీలు, గడువులు, రుసుములు లేదా అర్హతను ఊహించవద్దు."
+  },
+  "ui_182": {
+    "en": "CLARITY & TRUST",
+    "te": "స్పష్టత & నమ్మకం"
+  },
+  "ui_183": {
+    "en": "Contact KING",
+    "te": "కింగ్‌ను సంప్రదించండి"
+  },
+  "ui_184": {
+    "en": "KING DESIGN SYSTEM · 01",
+    "te": "కింగ్ డిజైన్ వ్యవస్థ · 01"
+  },
+  "ui_185": {
+    "en": "Royal. Digital.",
+    "te": "రాజసం. డిజిటల్."
+  },
+  "ui_186": {
+    "en": "Effortlessly clear.",
+    "te": "సులభంగా, స్పష్టంగా."
+  },
+  "ui_187": {
+    "en": "Clarity in the details. Character in the headlines.",
+    "te": "వివరాల్లో స్పష్టత. శీర్షికల్లో ప్రత్యేకత."
+  },
+  "ui_188": {
+    "en": "Imagery direction: the original KING emblem, sculptural service cards, fine golden connections and restrained cyan nodes on deep navy.",
+    "te": "దృశ్య దిశ: అసలు కింగ్ చిహ్నం, సేవా కార్డులు, సున్నితమైన బంగారు అనుసంధానాలు, ముదురు నీలంపై చిన్న సయాన్ బిందువులు."
+  },
+  "ui_189": {
+    "en": "Close",
+    "te": "మూసివేయండి"
+  },
+  "ui_190": {
+    "en": "Let’s connect.",
+    "te": "సంప్రదిద్దాం."
+  },
+  "ui_191": {
+    "en": "The business WhatsApp number hasn’t been added yet. Your enquiry is ready to copy; nothing has been sent.",
+    "te": "వ్యాపార వాట్సాప్ నంబరు ఇంకా జోడించలేదు. మీ విచారణ కాపీ చేయడానికి సిద్ధంగా ఉంది; ఏమీ పంపలేదు."
+  },
+  "ui_192": {
+    "en": "Your enquiry",
+    "te": "మీ విచారణ"
+  },
+  "ui_193": {
+    "en": "digital services",
+    "te": "డిజిటల్ సేవలు"
+  },
+  "ui_194": {
+    "en": "Copied",
+    "te": "కాపీ అయింది"
+  },
+  "ui_195": {
+    "en": "Copy enquiry",
+    "te": "విచారణ కాపీ చేయండి"
+  },
+  "ui_196": {
+    "en": "Contact details",
+    "te": "సంప్రదింపు వివరాలు"
+  },
+  "ui_197": {
+    "en": "GOVERNMENT SERVICES",
+    "te": "ప్రభుత్వ సేవలు"
+  },
+  "ui_198": {
+    "en": "BUSINESS REGISTRATIONS",
+    "te": "వ్యాపార నమోదులు"
+  },
+  "ui_199": {
+    "en": "TAX & FINANCE",
+    "te": "పన్నులు & ఆర్థికం"
+  },
+  "ui_200": {
+    "en": "JOBS & EDUCATION",
+    "te": "ఉద్యోగాలు & విద్య"
+  },
+  "ui_201": {
+    "en": "ONLINE APPLICATIONS",
+    "te": "ఆన్‌లైన్ దరఖాస్తులు"
+  },
+  "ui_202": {
+    "en": "Let’s find your",
+    "te": "మీకు సరైన"
+  },
+  "ui_203": {
+    "en": "way back.",
+    "te": "మార్గం చూపుదాం."
+  },
+  "ui_204": {
+    "en": "Skip to content",
+    "te": "విషయానికి వెళ్లండి"
+  },
+  "ui_205": {
+    "en": "You’re offline. Saved pages are available; contact actions need a connection.",
+    "te": "మీరు ఆఫ్‌లైన్‌లో ఉన్నారు. నిల్వ చేసిన పేజీలు అందుబాటులో ఉన్నాయి; సంప్రదింపులకు కనెక్షన్ అవసరం."
+  }
+}

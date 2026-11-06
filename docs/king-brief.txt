@@ -1,0 +1,1199 @@
+PROJECT:
+KING e-Seva Services — Premium Cinematic Digital Services Website
+
+GOAL:
+Build a production-ready, premium, highly visual, cinematic business website/PWA
+for KING e-Seva Services.
+
+The website must NOT look like a generic CSC portal, MeeSeva copy,
+government website, WordPress template, or ordinary local services website.
+
+It should feel like a premium modern technology brand:
+Royal + Digital + Trustworthy + Simple + Cinematic.
+
+==================================================
+BRAND IDENTITY
+==================================================
+
+Brand Name:
+KING e-Seva Services
+
+Tagline:
+మీ అందరి సేవలో
+
+Location:
+Ghanpur (Station), Jangaon District, Telangana
+
+Brand Palette:
+
+Primary:
+Deep Royal Navy / Midnight Blue
+
+Secondary:
+Premium Metallic Gold
+
+Support:
+White / Warm Off-White
+
+Digital Accent:
+Electric Cyan / Aqua
+
+IMPORTANT COLOR RULE:
+
+Use Navy + Gold + White for approximately 90% of the design.
+
+Use Cyan only for:
+- active digital states
+- lion eye glow
+- crown gems
+- active navigation
+- selected service
+- tiny digital indicators
+- subtle technology accents
+
+Do NOT turn the website into a neon/cyberpunk design.
+
+==================================================
+LOGO ASSET
+==================================================
+
+Use the uploaded KING lion logo as an important primary visual asset.
+
+STRICT RULE:
+
+Do NOT redesign the lion.
+Do NOT redraw the crown.
+Do NOT alter the proportions.
+Do NOT change the fundamental colors.
+Do NOT replace the emblem.
+Do NOT distort the circular border.
+
+Preserve the logo's recognizable visual identity.
+
+The logo contains:
+
+- royal lion
+- crown
+- circular gold border
+- navy background
+- premium gold detailing
+- cyan eye
+- cyan crown gems
+- subtle digital circuit visual language
+
+This logo should become a core storytelling element of the website.
+
+==================================================
+SIGNATURE LOGO EXPERIENCE
+==================================================
+
+Create a signature animation called:
+
+"ROYAL DIGITAL AWAKENING"
+
+The website should begin with a premium cinematic logo reveal.
+
+Do NOT create a long splash screen.
+
+Total duration:
+approximately 2.5 to 3.5 seconds maximum.
+
+ANIMATION SEQUENCE:
+
+STEP 1 — DARK ENTRY
+
+Start with a near-black / midnight navy screen.
+
+A subtle warm golden ambient light slowly appears behind the center.
+
+STEP 2 — GOLD RING REVEAL
+
+Reveal the outer circular border of the KING emblem.
+
+Do NOT simply fade it in.
+
+Create the impression of a fine golden light traveling around the circular ring
+and revealing it progressively.
+
+The effect should look like polished metal catching moving studio light.
+
+STEP 3 — LION REVEAL
+
+Reveal the lion using elegant directional gold light sweeps.
+
+The lion should emerge from darkness in layers:
+
+mane → face → jaw → lower mane.
+
+Avoid:
+particle explosion,
+fire,
+lightning,
+gaming effects,
+aggressive glow.
+
+STEP 4 — CROWN ACTIVATION
+
+Reveal the crown with a subtle downward settle motion.
+
+The crown should feel physically present.
+
+Use very small overshoot / spring easing.
+
+STEP 5 — DIGITAL ENERGY PULSE
+
+When the crown settles:
+
+send one restrained golden pulse through the emblem.
+
+The pulse travels:
+
+Crown
+↓
+Lion
+↓
+Circular frame
+
+STEP 6 — CYAN AWAKENING
+
+Activate the digital cyan details.
+
+Lion eye:
+one elegant cyan glow pulse.
+
+Crown gems:
+soft cyan illumination.
+
+Background circuit patterns:
+barely visible subtle activation.
+
+The lion eye must NOT blink continuously.
+
+STEP 7 — BRAND REVEAL
+
+Reveal:
+
+KING
+e-Seva Services
+
+Design KING as the dominant word.
+
+If creating an associated wordmark,
+place a premium crown accent above the letter "I".
+
+Then reveal:
+
+మీ అందరి సేవలో
+
+Use premium typography and controlled spacing.
+
+STEP 8 — HERO TRANSITION
+
+Instead of ending the animation and loading another screen,
+transform the intro directly into the website hero.
+
+The emblem should smoothly reposition into the hero composition.
+
+No visible page reload.
+No hard cut.
+
+==================================================
+CORE CREATIVE CONCEPT
+==================================================
+
+Website Theme:
+
+"YOUR DIGITAL SERVICE KINGDOM"
+
+Core communication:
+
+"Many important digital services.
+One trusted place."
+
+The website must visually communicate that customers can get assistance for
+Government, Business, Tax, Jobs, Education and Online services under one brand.
+
+Do NOT use a generic image of a man sitting at a computer.
+
+Create a distinctive visual ecosystem.
+
+==================================================
+HERO SECTION
+==================================================
+
+Create a full viewport cinematic hero.
+
+DESKTOP:
+
+Left:
+headline, supporting text and CTA.
+
+Right:
+KING lion emblem integrated into a futuristic premium digital service ecosystem.
+
+MOBILE:
+
+Create an intentional mobile composition.
+
+Do NOT simply shrink the desktop layout.
+
+Hero visual can move above or behind content while maintaining readability.
+
+MAIN HEADLINE:
+
+Digital Services.
+Made Simple.
+
+Highlight:
+"Simple."
+
+using premium gold styling.
+
+ALTERNATE SMALL BRAND LINE:
+
+Your Digital Service Kingdom.
+
+SUPPORT TEXT:
+
+Government Services • Business Registrations • Tax & Finance
+Jobs • Scholarships • Admissions • Online Applications
+
+TELUGU TAGLINE:
+
+మీ అందరి సేవలో
+
+PRIMARY CTA:
+
+Apply Online
+
+SECONDARY CTA:
+
+WhatsApp Us
+
+OPTIONAL THIRD CTA:
+
+Explore Services
+
+Add:
+
+Scroll to Explore ↓
+
+==================================================
+HERO SIGNATURE VISUAL
+==================================================
+
+Create a premium 3D-style service ecosystem around the KING emblem.
+
+Use:
+
+central KING lion emblem
+
++
+
+a premium smartphone / digital dashboard display
+
++
+
+floating service cards.
+
+Represent services such as:
+
+PAN Card
+Passport
+Voter ID
+Aadhaar-related services
+Driving Licence / RTA
+GST
+Food Licence
+Trade Licence
+Labour Licence
+Udyam Registration
+ITR Filing
+EPF
+Insurance
+Government Jobs
+Scholarships
+Admissions
+Government Schemes
+Online Applications
+
+IMPORTANT:
+
+Do NOT use actual personal Aadhaar numbers, PAN numbers,
+passport data or fake sensitive documents.
+
+Use abstract visual cards, icons and category labels only.
+
+==================================================
+GOLDEN DIGITAL SERVICE NETWORK
+==================================================
+
+Create a distinctive KING brand visual language:
+
+"Golden Digital Service Network"
+
+Connect the floating service cards through:
+
+- elegant golden curved paths
+- tiny cyan active nodes
+- subtle circuit-style patterns
+- controlled flowing light
+
+The service network should appear to originate from or connect to the
+KING lion emblem.
+
+Conceptually communicate:
+
+KING e-Seva Services
+→ connects users
+→ to multiple digital services.
+
+==================================================
+MOUSE & HERO INTERACTION
+==================================================
+
+Desktop mouse movement:
+
+Apply very subtle layered parallax.
+
+Foreground service cards:
+move slightly.
+
+Background digital network:
+move less.
+
+Lion emblem:
+maximum 2–4 degree premium 3D tilt.
+
+The effect must be elegant and restrained.
+
+Never make the logo follow the cursor aggressively.
+
+==================================================
+SCROLL STORYTELLING
+==================================================
+
+Create cinematic scroll-based storytelling similar to premium product websites.
+
+On scroll:
+
+The hero service ecosystem begins to transform.
+
+The individual service cards gradually separate into major categories:
+
+Government
+Business
+Tax & Finance
+Jobs
+Education
+Online Services
+
+The golden connecting network smoothly becomes the visual structure of the
+Services section.
+
+The website should feel like one continuous visual experience,
+not disconnected blocks.
+
+==================================================
+LOGO SCROLL TRANSFORMATION
+==================================================
+
+At the start:
+
+The KING emblem is large and central to the hero visual.
+
+During scroll:
+
+- slowly reduce size
+- slightly adjust depth
+- maintain subtle gold metallic highlights
+- one optional tiny cyan eye glow during a major section transition
+
+Near the navbar:
+
+create the illusion that the large hero emblem transforms into the compact
+navigation logo.
+
+Do NOT continuously rotate the logo.
+
+Do NOT spin the lion.
+
+==================================================
+LOGO HOVER EFFECT
+==================================================
+
+When the user hovers over the logo on desktop:
+
+- slight 3D tilt
+- gold edge catches light
+- crown catches a subtle highlight
+- lion eye gently activates cyan
+- return smoothly to rest state
+
+Duration:
+approximately 300–600ms.
+
+Keep it premium.
+
+Avoid:
+
+laser effects
+fire
+smoke
+lightning
+aggressive particles
+neon outlines
+gaming mascot animation
+
+==================================================
+NAVIGATION
+==================================================
+
+Desktop navigation:
+
+Logo
+
+Home
+Services
+Govt Updates
+Jobs
+About
+Contact
+
+CTA:
+Apply Online
+
+Initial navbar:
+transparent over hero.
+
+After scroll:
+transition into a refined navy translucent navigation bar.
+
+Use very subtle backdrop blur.
+
+Mobile:
+
+premium animated hamburger.
+
+Consider a bottom quick-action bar:
+
+Services
+WhatsApp
+Call
+Apply
+
+Only if it improves usability.
+
+==================================================
+SERVICES SECTION
+==================================================
+
+Headline:
+
+Everything You Need.
+One Trusted Place.
+
+Do NOT display 30 small cards immediately.
+
+First organize services into six premium categories.
+
+CATEGORY 01
+
+Government Services
+
+Examples:
+
+PAN Card
+Passport
+Voter ID
+Aadhaar-related assistance
+Driving Licence
+RTA Services
+
+CATEGORY 02
+
+Business Registrations
+
+Examples:
+
+GST Registration
+Food Licence
+Labour Licence
+Trade Licence
+Udyam Registration
+
+CATEGORY 03
+
+Tax & Finance
+
+Examples:
+
+ITR Filing
+EPF Services
+Insurance
+Tax-related assistance
+
+CATEGORY 04
+
+Jobs & Applications
+
+Examples:
+
+Government Job Applications
+Hall Tickets
+Results
+Exams
+Recruitment Updates
+
+CATEGORY 05
+
+Education
+
+Examples:
+
+Admissions
+Scholarships
+Counselling
+Entrance Applications
+
+CATEGORY 06
+
+Other Online Services
+
+Frequently requested citizen and online services.
+
+Each category should have:
+
+- icon / illustration
+- short explanation
+- Explore Services
+- WhatsApp Assistance
+
+Create elegant expandable service lists.
+
+==================================================
+SERVICE CARD INTERACTION
+==================================================
+
+Service cards should feel premium.
+
+Hover:
+
+- slight lift
+- subtle gold border highlight
+- tiny cyan active indicator
+- smooth shadow/depth
+
+Do not use exaggerated glassmorphism.
+
+==================================================
+HOW IT WORKS
+==================================================
+
+Create a highly visual 3-step section.
+
+Headline:
+
+Simple Process.
+Real Assistance.
+
+STEP 1
+
+Choose Your Service
+
+STEP 2
+
+Send / Upload Required Documents
+
+STEP 3
+
+Application Assistance & Status Updates
+
+Connect the three steps through an animated golden path.
+
+Make this section understandable even for people with limited technical literacy.
+
+==================================================
+WHATSAPP-FIRST EXPERIENCE
+==================================================
+
+WhatsApp should be an important conversion channel.
+
+Add a floating WhatsApp assistance button.
+
+On every service page:
+
+CTA:
+Ask on WhatsApp
+
+Prepare a message dynamically:
+
+"Hello KING e-Seva Services,
+I need assistance with [SERVICE NAME].
+Please tell me the required documents and process."
+
+Do not automatically include personal data.
+
+==================================================
+LATEST UPDATES SECTION
+==================================================
+
+Create:
+
+Latest Opportunities & Updates
+
+Support categories:
+
+Government Jobs
+Government Schemes
+Scholarships
+Admissions
+Counselling
+Exams
+Hall Tickets
+Results
+Important Deadlines
+
+Each update card should support:
+
+Title
+Category
+Publish Date
+Eligibility
+Last Date
+Short Summary
+Official Source
+Get Assistance
+
+IMPORTANT:
+
+The website must never invent:
+
+vacancies,
+eligibility,
+dates,
+fees,
+government claims,
+official affiliations.
+
+==================================================
+TRUST SECTION
+==================================================
+
+Headline:
+
+Digital Services with Human Support.
+
+Communicate:
+
+Easy assistance
+Clear document guidance
+Application support
+Local assistance
+Multiple services
+Simple communication
+
+Do NOT invent:
+
+customer counts
+ratings
+government authorization
+success rates
+guaranteed approval
+fake testimonials
+fake certificates
+
+==================================================
+ABOUT SECTION
+==================================================
+
+Create a premium brand story section.
+
+Focus on:
+
+KING e-Seva Services as a modern digital service assistance brand
+helping customers access essential online services more easily.
+
+Use the KING lion emblem subtly in the background.
+
+Tone:
+
+Professional
+Trustworthy
+Human
+Modern
+
+==================================================
+SERVICE DETAIL PAGES
+==================================================
+
+Every important service must have its own SEO-friendly detail page.
+
+Examples:
+
+/services/pan-card
+/services/passport
+/services/food-license
+/services/gst-registration
+/services/udyam
+/services/itr-filing
+
+Page structure:
+
+Service Name
+
+Simple explanation
+
+Who may need this service
+
+Required documents
+
+Process overview
+
+Important notes
+
+FAQ
+
+Official reference link where appropriate
+
+CTA:
+Get Assistance
+
+CTA:
+WhatsApp
+
+IMPORTANT:
+
+Never invent government fees,
+processing times,
+approval promises,
+eligibility or guaranteed outcomes.
+
+==================================================
+LANGUAGE SYSTEM
+==================================================
+
+DEFAULT:
+
+English
+
+Provide:
+
+English | తెలుగు
+
+language toggle.
+
+When English is selected:
+
+All UI content must appear in English.
+
+When Telugu is selected:
+
+Translate naturally into Telugu.
+
+Do NOT show broken half-English / half-Telugu UI because of missing translation keys.
+
+Store user language preference locally.
+
+==================================================
+MOBILE EXPERIENCE
+==================================================
+
+Mobile-first design is essential.
+
+The website must feel like a premium app.
+
+Mobile priorities:
+
+- easy service discovery
+- readable text
+- large touch targets
+- fast WhatsApp access
+- minimal typing
+- smooth navigation
+- strong CTA visibility
+
+Simplify heavy hero effects on lower-power devices.
+
+==================================================
+ANIMATION SYSTEM
+==================================================
+
+Preferred tools:
+
+GSAP
+ScrollTrigger
+Framer Motion
+
+Use Three.js/WebGL only if genuinely necessary.
+
+PERFORMANCE RULE:
+
+Animation must enhance storytelling,
+not damage loading speed.
+
+Use GPU-friendly:
+
+transform
+opacity
+scale
+translate
+clip-path where appropriate
+
+Avoid animating expensive layout properties.
+
+Respect:
+
+prefers-reduced-motion
+
+Provide a simplified animation experience for users who disable motion.
+
+==================================================
+LATEST-UPDATES CONTENT ARCHITECTURE
+==================================================
+
+Build the frontend so latest updates can later be connected to:
+
+Supabase
+Firebase
+Headless CMS
+custom backend/API
+
+Use reusable data models.
+
+Example:
+
+Update {
+ id
+ title
+ slug
+ category
+ summary
+ eligibility
+ lastDate
+ officialSource
+ applicationUrl
+ publishedAt
+ isFeatured
+}
+
+==================================================
+SEO
+==================================================
+
+Create SEO-friendly pages.
+
+Implement:
+
+unique title tags
+meta descriptions
+Open Graph
+Twitter cards
+canonical URLs
+sitemap.xml
+robots.txt
+semantic HTML
+Schema.org structured data where appropriate
+
+Optimize for searches related to:
+
+online services
+PAN services
+passport assistance
+GST registration
+food licence
+government jobs
+scholarships
+admissions
+digital services
+Jangaon
+Ghanpur Station
+Telangana
+
+Avoid keyword stuffing.
+
+==================================================
+PWA
+==================================================
+
+Make the website installable as a Progressive Web App.
+
+Implement:
+
+web app manifest
+service worker
+installability
+offline fallback
+cached UI shell
+
+Do NOT cache sensitive form information unnecessarily.
+
+==================================================
+ACCESSIBILITY
+==================================================
+
+Use:
+
+semantic HTML
+keyboard navigation
+visible focus states
+proper contrast
+ARIA only where necessary
+accessible form labels
+alt text
+large touch targets
+
+Do not rely only on color to communicate state.
+
+==================================================
+TECH STACK
+==================================================
+
+Preferred:
+
+React
+TypeScript
+Vite
+
+OR:
+
+Next.js if SSR/SEO architecture benefits the project.
+
+Styling:
+
+Tailwind CSS
+
+Animation:
+
+GSAP
+ScrollTrigger
+Framer Motion
+
+Data Architecture:
+
+clean reusable TypeScript interfaces
+
+Future backend compatibility:
+
+Supabase / REST API
+
+==================================================
+PERFORMANCE
+==================================================
+
+Target:
+
+excellent mobile performance.
+
+Use:
+
+lazy loading
+code splitting
+image optimization
+WebP / AVIF
+responsive images
+font optimization
+SVG where possible
+dynamic import for heavy animations
+
+Do NOT load expensive 3D libraries on every device unless necessary.
+
+==================================================
+RESPONSIVE BREAKPOINT BEHAVIOR
+==================================================
+
+Do not simply resize components.
+
+Create specific compositions for:
+
+Mobile
+Tablet
+Laptop
+Desktop
+Large Desktop
+
+On mobile:
+
+reduce number of floating hero elements.
+
+On desktop:
+
+enable full cinematic visual storytelling.
+
+==================================================
+FOOTER
+==================================================
+
+Display:
+
+KING e-Seva Services
+
+మీ అందరి సేవలో
+
+Ghanpur (Station)
+Jangaon District
+Telangana
+
+Footer sections:
+
+Popular Services
+Government Updates
+Jobs
+Education
+About
+Contact
+
+Legal:
+
+Privacy Policy
+Terms & Conditions
+Disclaimer
+
+==================================================
+LEGAL / TRUST POSITIONING
+==================================================
+
+The website should clearly avoid visually pretending to be an official
+government website.
+
+Where necessary, state that KING e-Seva Services provides
+digital/application assistance and related services.
+
+Do not use government emblems in a way that implies official authorization.
+
+==================================================
+DESIGN RULES — AVOID
+==================================================
+
+DO NOT USE:
+
+cheap gradients
+rainbow palette
+constant neon glow
+gaming UI
+crypto dashboard look
+generic SaaS template
+government portal appearance
+dozens of identical cards
+stock-photo-heavy design
+excessive glassmorphism
+excessive animation
+scroll-jacking
+continuous logo rotation
+lion roaring animation
+flames
+lightning
+aggressive particle explosions
+
+==================================================
+DESIRED VISUAL FEEL
+==================================================
+
+Combine:
+
+Apple-level visual cleanliness
+
++
+
+Luxury royal-brand aesthetics
+
++
+
+Modern Indian digital-service usability
+
++
+
+Cinematic scroll storytelling
+
++
+
+KING lion brand identity
+
+The user should feel:
+
+"This is not a small ordinary e-Seva website.
+This is a professional digital services brand."
+
+==================================================
+BUILD ORDER
+==================================================
+
+Do NOT stop at planning or wireframes.
+
+Build the actual polished frontend.
+
+PHASE 1:
+
+Build complete production-quality Home Page.
+
+Include:
+
+- Royal Digital Awakening logo intro
+- Navbar
+- Cinematic Hero
+- Golden Digital Service Network
+- Scroll transformation
+- Services
+- How It Works
+- Latest Updates
+- Trust
+- About
+- CTA
+- Footer
+
+PHASE 2:
+
+Build:
+
+Services listing
+Individual service pages
+Latest Updates
+Jobs
+About
+Contact
+Privacy Policy
+Terms
+Disclaimer
+
+PHASE 3:
+
+Add:
+
+PWA support
+SEO
+performance optimization
+accessibility
+responsive refinements
+animation performance optimization
+
+==================================================
+FINAL QUALITY CHECK
+==================================================
+
+Before finishing, verify:
+
+1. Uploaded KING lion logo is preserved correctly.
+2. Logo reveal duration is less than ~3.5 seconds.
+3. Cyan is used only as a controlled digital accent.
+4. Mobile experience is fast.
+5. Animations remain smooth.
+6. Every CTA works.
+7. No invented government information appears.
+8. Website never falsely appears to be an official government portal.
+9. English/Telugu toggle works correctly.
+10. All layouts are responsive.
+11. WhatsApp flow works.
+12. No console errors.
+13. Lighthouse/Core Web Vitals are optimized.
+14. The overall website feels premium and unique.
+15. The KING lion emblem remains visually central to the brand.
+
+FINAL OUTPUT:
+
+Deliver the complete working production-ready source code.
+
+Do not provide only design theory.
+Do not provide only mockups.
+Do not stop after generating a few components.
+
+Build the complete polished website experience.

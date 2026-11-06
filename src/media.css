@@ -1,0 +1,26 @@
+/* The source artwork stays proportional; the original emblem is a separate layer. */
+.has-media .hero-grid{grid-template-columns:1fr 1.05fr;gap:22px}
+.has-media .hero-sticky{background:#081725}
+.has-media .hero-visual{height:auto;margin:0;perspective:none}
+.has-media .generated-rig{height:auto;transform:none!important}
+.media-art{position:relative;aspect-ratio:2752/1536;isolation:isolate}
+.media-art picture{display:block;position:absolute;inset:0;mask-image:radial-gradient(ellipse at 54% 48%,#000 48%,transparent 76%)}
+.media-art .story-poster{width:100%;height:100%;object-fit:cover}
+.media-art:has(canvas[data-frame]) picture{visibility:hidden}
+.media-art .frame-sequence{position:absolute;inset:0;width:100%;height:100%;opacity:1;object-fit:contain;mask-image:radial-gradient(ellipse at 54% 48%,#000 48%,transparent 76%);z-index:1}
+.has-media .hero-emblem{width:25%;left:63%;top:21%;z-index:5;filter:drop-shadow(0 6px 14px #0006)}
+.media-services{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;position:relative;z-index:7;margin-top:-28px}
+.has-media .media-services .floating-card{position:relative;inset:auto;min-width:0;min-height:44px;padding:10px;gap:7px;border-radius:5px;transform:none;white-space:normal;font-size:9px;background:#102334cc}
+.media-services .floating-card>svg{color:var(--gold)}
+.media-services .floating-card>svg:last-child{margin-left:auto;opacity:.6}
+.media-services .floating-label{flex:1;min-width:0;font-size:9px;line-height:1.5;min-height:27px;display:grid;align-items:center}
+.media-services .floating-label>span,.media-services .floating-label>b{grid-area:1/1;position:static;white-space:normal}
+.has-media .story-caption{bottom:29%}
+@media(min-width:701px) and (max-width:1000px){.has-media .hero-grid{padding-inline:4%;gap:8px}.media-services{grid-template-columns:repeat(2,minmax(0,1fr))}.has-media .hero-copy h1{font-size:46px}.media-services .floating-label{font-size:8px}}
+@media(max-width:700px){.has-media .hero-grid{display:flex;gap:4px;padding-top:85px}.has-media .hero-visual{width:min(100%,420px);height:auto;min-height:0;margin:0 auto}.media-art{aspect-ratio:1536/1400}.media-art picture{mask-image:linear-gradient(#000 82%,transparent 100%)}.media-art .story-poster{object-fit:contain}.media-art .frame-sequence{display:none}.has-media .hero-emblem{width:38%;left:31%;top:37.5%;transform:none}.media-services{grid-template-columns:repeat(3,minmax(0,1fr));margin-top:-24px;gap:5px}.has-media .media-services .floating-card{display:flex;padding:7px;min-height:44px;gap:5px}.media-services .floating-card>svg:last-child{display:none}.media-services .floating-label{font-size:8px}.has-media .hero-copy{padding-top:24px}.has-media .hero-bottom{position:relative;margin-top:25px}.has-media .hero-sticky{padding-bottom:24px}.has-media .hero-copy h1{white-space:normal}}
+@media(prefers-reduced-motion:reduce){.media-art .frame-sequence{display:none}}
+@media(max-width:700px),(prefers-reduced-motion:reduce){.media-art:has(canvas[data-frame]) picture{visibility:visible}}
+@media(max-width:700px){.has-media .hero-grid{padding-top:16px}.has-media .hero-emblem{top:29%}.media-art picture{mask-image:radial-gradient(ellipse at 50% 48%,#000 48%,transparent 77%)}html[lang=te] .has-media .media-services .floating-card{min-width:0}html[lang=te] .media-services .floating-label{font-size:8px;line-height:1.7}}
+@media(max-width:700px){.media-services .floating-label,html[lang=te] .media-services .floating-label{font-size:10px}.media-services .floating-card>svg{width:13px}}
+/* Mobile artwork is a portrait canvas; show its designed top hero crop without loading the desktop still. */
+@media(max-width:700px){.media-art .story-poster{object-fit:cover;object-position:top}}

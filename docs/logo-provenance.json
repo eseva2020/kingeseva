@@ -1,0 +1,10 @@
+{
+  "original": "public/assets/king-lion-original.png",
+  "source": "F:/King Online Services/King Lion Logo.png",
+  "sha256": "33b00263babe71f945cf0ca93f14f8b547d0f726aad20d60781ceaf939e47f7f",
+  "dimensions": {
+    "width": 2400,
+    "height": 2250
+  },
+  "modifications": "Original untouched. Proportional WebP and contained PWA/OG derivatives only. No redraw, recolour or deformation."
+}
